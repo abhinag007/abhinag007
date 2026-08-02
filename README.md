@@ -1,24 +1,76 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Nag</h1>
-<h3 align="center">Full Stack Developer / Mobile Application Developer / Software Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:22D3EE&height=170&section=header&text=Abhijeet%20Nag&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Agentic%20Systems%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Voice%20AI&descAlignY=52&descSize=16" width="100%" alt="banner"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinag007&label=Profile%20views&color=0e75b6&style=flat" alt="abhinag007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinag007" alt="abhinag007" /></a> </p>
-
-- 🌱 I’m currently learning **ML, AI and Deep Learning**
-
-- 📫 How to reach me **abhijeetnag0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhijeet-nag-b70030224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-nag-b70030224" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Code+owns+control+flow.+Models+do+bounded+reasoning.;Every+LLM+call+has+a+schema%2C+a+budget%2C+and+a+fallback.;Evals+over+vibes.+ROC-AUC+gates+every+promotion." alt="typing"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://agentlink.pro"><img src="https://img.shields.io/badge/AgentLink-live_product-22D3EE?style=for-the-badge&labelColor=0F172A" alt="AgentLink"/></a>
+  <a href="https://linkedin.com/in/abhijeet-nag"><img src="https://img.shields.io/badge/LinkedIn-connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn"/></a>
+  <a href="mailto:abhijeetnag0@gmail.com"><img src="https://img.shields.io/badge/Email-reach_out-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Remote-UTC%2B5:30_·_US_mornings-16A34A?style=for-the-badge&labelColor=0F172A" alt="Remote"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinag007&show_icons=true&locale=en&layout=compact" alt="abhinag007" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinag007&show_icons=true&locale=en" alt="abhinag007" /></p>
+**4.5 years of software engineering — the last 1.5 building production LLM systems.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinag007&" alt="abhinag007" /></p>
+I build agentic products where **code owns control flow** and models do bounded reasoning under strict JSON contracts — then I measure them: ROC-AUC evaluation loops, per-run cost budgets, and a non-LLM fallback behind every model call.
+
+- 🚀 Shipped **[AgentLink](https://agentlink.pro)** — a live AI recruiting platform — solo, from schema to deploy
+- 🎙️ Voice AI at **~1.2s end-to-end latency** (STT 300ms → LLM 600ms → TTS 300ms) with VAD barge-in
+- 📊 I care about **evals over vibes** — champion/challenger, offline replay, LLM-as-judge, selection-bias analysis
+- 📫 Reach me at **abhijeetnag0@gmail.com**
+
+---
+
+### 🚀 Flagship — AgentLink · Sole Engineer & Architect
+
+> Live AI recruiting platform: JD parsing → resume scoring → AI voice screening → transcript evaluation → calendar booking, with usage-based billing.
+> **~60K LOC · 462 commits · 39-table Postgres schema**
+
+| Decision | Why it matters |
+|---|---|
+| **Deterministic workflow engine** over an agent framework — step graph is data in Postgres (2 templates, 18 steps, 15 agent types) | Reproducible runs + per-step audit trail a regulated hiring domain requires |
+| **Single LLM gateway** — prompt-hash cache (12h TTL), primary→fallback cascade, schema validation, token/cost accounting | Per-campaign USD budget whose hard stop *pauses* the campaign instead of failing it |
+| **Two-pass adversarial scoring ensemble** (hiring manager vs. skeptical recruiter) + 8-gate deterministic policy override | Tuned for precision — a wasted screening call costs far more than two LLM calls |
+| **Closed eval loop** on a free downstream label (did the candidate pass the voice screen) | ROC-AUC (Mann–Whitney) gates promotion at +0.01, n ≥ 40; promotion is a reversible row flip |
+| **pgvector** instead of a dedicated vector DB (text-embedding-3-small, 1536-dim, cosine) | Consent, do-not-contact and dedup filters run in the *same atomic query* |
+| **Version-controlled Retell conversation-flow state graph**, reconciled on boot | Deterministic transcript analysis runs before the LLM; every AI path degrades to a non-LLM fallback |
+
+---
+
+### 💼 Experience
+
+**AI Engineer & Product Developer — Intellylabs** · *Mar 2025 — Present · Remote*
+Lead engineer on **IntellyMind**, an ecosystem of autonomous voice AI agents for recruiting, sales and visa workflows.
+- Real-time voice interviewing system (FastAPI + WebSockets) with a RAG pipeline (ChromaDB + BGE-Reranker) generating context-aware technical questions — **95% pass rate** on an LLM-as-judge eval over 500 JD/question pairs
+- ~**1.2s** end-to-end voice latency (FasterWhisper float16 on GPU, Silero VAD barge-in)
+- Outbound sales agent with Apollo.io enrichment + BANT lead scoring; **hybrid routing** (local Ollama for intent, GPT-4o for reasoning) to cut inference cost
+- **9-language** visa voice backend with human-in-the-loop fallback on low-confidence turns and centralized ELK observability
+
+**Software Engineer — Credex Technology** · *Oct 2021 — Feb 2025 · Noida*
+- Shipped production mobile apps — native Android (Kotlin), iOS (Swift), Flutter (MPOS, agri-tech) — owned architecture → release
+- Optimized MongoDB aggregation pipelines: **-30%** dashboard load time; GitHub Actions CI/CD: **-40%** deploy time
+
+---
+
+### 🛠️ Tech
+
+**LLM Engineering** — Structured outputs & schema validation · prompt-hash caching · model cascading · per-run cost budgeting · adversarial multi-pass ensembles · prompt-injection guardrails · LangChain / LangGraph
+
+**Evaluation** — ROC-AUC · champion/challenger · offline replay · LLM-as-judge · selection-bias analysis · regression suites
+
+**RAG & Retrieval** — pgvector · ChromaDB · BGE-Reranker · text-embedding-3-small · semantic dedup · peer-fit ranking
+
+**Voice AI** — Retell AI · Twilio Voice · FasterWhisper · Silero VAD · Google Cloud TTS · WebSocket audio streaming · latency budgeting
+
+**Backend & Infra** — TypeScript/Node · Python/FastAPI · PostgreSQL + Prisma · Redis · Docker · Kubernetes · Celery · ELK · React/Next.js · Flutter
+
+---
+
+<p align="center">
+  🎓 <b>B.Tech, Computer Science</b> — GLA University (2018–2022) &nbsp;·&nbsp; 📍 Lucknow, India
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0F172A&height=110&section=footer" width="100%" alt="footer"/>
