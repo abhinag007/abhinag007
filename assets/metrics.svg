@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.c{opacity:0;animation:u .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes u{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}</style>
+<g class="c" style="animation-delay:0.0s"><rect x="3" y="5" width="207" height="110" rx="12" fill="#0b1d3a" stroke="#24406b"/>
+<rect x="3" y="5" width="207" height="4" rx="2" fill="#F5C542"/>
+<text x="106.5" y="56" text-anchor="middle" fill="#F5C542" font-size="30" font-weight="700">18,000</text>
+<text x="106.5" y="82" text-anchor="middle" fill="#E6EDF3" font-size="14" font-weight="600">calls / month</text>
+<text x="106.5" y="101" text-anchor="middle" fill="#9BA9B4" font-size="12">handled by my voice agent</text></g><g class="c" style="animation-delay:0.18s"><rect x="223" y="5" width="207" height="110" rx="12" fill="#0b1d3a" stroke="#24406b"/>
+<rect x="223" y="5" width="207" height="4" rx="2" fill="#F5C542"/>
+<text x="326.5" y="56" text-anchor="middle" fill="#F5C542" font-size="30" font-weight="700">9</text>
+<text x="326.5" y="82" text-anchor="middle" fill="#E6EDF3" font-size="14" font-weight="600">languages</text>
+<text x="326.5" y="101" text-anchor="middle" fill="#9BA9B4" font-size="12">auto-detect routing</text></g><g class="c" style="animation-delay:0.36s"><rect x="443" y="5" width="207" height="110" rx="12" fill="#0b1d3a" stroke="#24406b"/>
+<rect x="443" y="5" width="207" height="4" rx="2" fill="#F5C542"/>
+<text x="546.5" y="56" text-anchor="middle" fill="#F5C542" font-size="30" font-weight="700">~1.2s</text>
+<text x="546.5" y="82" text-anchor="middle" fill="#E6EDF3" font-size="14" font-weight="600">end-to-end</text>
+<text x="546.5" y="101" text-anchor="middle" fill="#9BA9B4" font-size="12">voice latency</text></g><g class="c" style="animation-delay:0.54s"><rect x="663" y="5" width="207" height="110" rx="12" fill="#0b1d3a" stroke="#24406b"/>
+<rect x="663" y="5" width="207" height="4" rx="2" fill="#F5C542"/>
+<text x="766.5" y="56" text-anchor="middle" fill="#F5C542" font-size="30" font-weight="700">57K+</text>
+<text x="766.5" y="82" text-anchor="middle" fill="#E6EDF3" font-size="14" font-weight="600">lines of code</text>
+<text x="766.5" y="101" text-anchor="middle" fill="#9BA9B4" font-size="12">AgentLink, built solo</text></g></svg>

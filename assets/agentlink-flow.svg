@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="175" viewBox="0 0 900 175">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#F5C542" stop-opacity="0"/><stop offset="1" stop-color="#F5C542"/></linearGradient></defs>
+<rect width="900" height="175" rx="14" fill="#0b1d3a"/>
+<text x="30" y="36" fill="#F5C542" font-size="15" font-weight="700">AgentLink</text>
+<text x="112" y="36" fill="#9BA9B4" font-size="13">from job post to booked interview, end to end</text>
+<line x1="80" y1="88" x2="820" y2="88" stroke="#24406b" stroke-width="3" stroke-linecap="round"/>
+<rect y="86.5" height="3" width="0" fill="url(#g)" x="80">
+<animate attributeName="width" values="0;740;740" keyTimes="0;0.85;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<circle cy="88" r="6" fill="#F5C542">
+<animate attributeName="cx" values="80;820;820" keyTimes="0;0.85;1" dur="6.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="6.0s" repeatCount="indefinite"/></circle>
+<circle cx="80.0" cy="88" r="17" fill="#12294f" stroke="#24406b" stroke-width="2">
+<animate attributeName="stroke" values="#24406b;#F5C542;#24406b" keyTimes="0;0.12;1" dur="6.0s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="80.0" y="93" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="700">1</text>
+<text x="80.0" y="128" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Job</text>
+<text x="80.0" y="145" text-anchor="middle" fill="#9BA9B4" font-size="12">description</text><circle cx="228.0" cy="88" r="17" fill="#12294f" stroke="#24406b" stroke-width="2">
+<animate attributeName="stroke" values="#24406b;#F5C542;#24406b" keyTimes="0;0.12;1" dur="6.0s" begin="1.02s" repeatCount="indefinite"/></circle>
+<text x="228.0" y="93" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="700">2</text>
+<text x="228.0" y="128" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Scoring</text>
+<text x="228.0" y="145" text-anchor="middle" fill="#9BA9B4" font-size="12">rubric</text><circle cx="376.0" cy="88" r="17" fill="#12294f" stroke="#24406b" stroke-width="2">
+<animate attributeName="stroke" values="#24406b;#F5C542;#24406b" keyTimes="0;0.12;1" dur="6.0s" begin="2.04s" repeatCount="indefinite"/></circle>
+<text x="376.0" y="93" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="700">3</text>
+<text x="376.0" y="128" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Rank</text>
+<text x="376.0" y="145" text-anchor="middle" fill="#9BA9B4" font-size="12">applicants</text><circle cx="524.0" cy="88" r="17" fill="#12294f" stroke="#24406b" stroke-width="2">
+<animate attributeName="stroke" values="#24406b;#F5C542;#24406b" keyTimes="0;0.12;1" dur="6.0s" begin="3.06s" repeatCount="indefinite"/></circle>
+<text x="524.0" y="93" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="700">4</text>
+<text x="524.0" y="128" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">AI phone</text>
+<text x="524.0" y="145" text-anchor="middle" fill="#9BA9B4" font-size="12">screen</text><circle cx="672.0" cy="88" r="17" fill="#12294f" stroke="#24406b" stroke-width="2">
+<animate attributeName="stroke" values="#24406b;#F5C542;#24406b" keyTimes="0;0.12;1" dur="6.0s" begin="4.08s" repeatCount="indefinite"/></circle>
+<text x="672.0" y="93" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="700">5</text>
+<text x="672.0" y="128" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Transcript</text>
+<text x="672.0" y="145" text-anchor="middle" fill="#9BA9B4" font-size="12">scoring</text><circle cx="820.0" cy="88" r="17" fill="#12294f" stroke="#24406b" stroke-width="2">
+<animate attributeName="stroke" values="#24406b;#2ea44f;#24406b" keyTimes="0;0.12;1" dur="6.0s" begin="5.1s" repeatCount="indefinite"/></circle>
+<text x="820.0" y="93" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="700">6</text>
+<text x="820.0" y="128" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Interview</text>
+<text x="820.0" y="145" text-anchor="middle" fill="#9BA9B4" font-size="12">booked</text>
+</svg>
